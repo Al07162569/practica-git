@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+  <rect width="800" height="480" rx="28" fill="#eef4ff"/>
+  <circle cx="650" cy="100" r="48" fill="#c8dcff"/>
+  <path d="M0 390 Q180 330 360 390 T800 370 V480 H0Z" fill="#d8e8ff"/>
+  <rect x="190" y="105" width="420" height="250" rx="18" fill="#26364f"/>
+  <rect x="210" y="125" width="380" height="210" rx="8" fill="#ffffff"/>
+  <rect x="235" y="155" width="145" height="14" rx="7" fill="#79a7ef"/>
+  <rect x="235" y="190" width="280" height="10" rx="5" fill="#d2dceb"/>
+  <rect x="235" y="215" width="235" height="10" rx="5" fill="#d2dceb"/>
+  <rect x="235" y="240" width="260" height="10" rx="5" fill="#d2dceb"/>
+  <rect x="235" y="275" width="105" height="28" rx="8" fill="#3978d7"/>
+  <path d="M160 355 H640 L690 390 H110Z" fill="#526783"/>
+  <text x="400" y="440" font-family="Arial, sans-serif" font-size="26" text-anchor="middle" fill="#26364f">Nuestra primera página web</text>
+</svg>
